@@ -1,0 +1,5 @@
+# Blender backups
+/blender/*.blend1
+
+# Mono cache
+/godot/.mono
