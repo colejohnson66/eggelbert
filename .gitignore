@@ -3,3 +3,6 @@
 
 # Mono cache
 /godot/.mono
+
+# OG sprites
+/sprites
